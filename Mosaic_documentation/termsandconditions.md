@@ -24,5 +24,5 @@ If you have any questions about these terms reach us out:<br>
 Email:mosaic@gmail.com<br>
 Phone number: 0712345678<br>
 
-Thank you for being of the Mosaic community
+Thank you for being part of the Mosaic community
 
