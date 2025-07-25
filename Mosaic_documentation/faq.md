@@ -14,5 +14,6 @@ Check status in-app or contact support.<br><br>
 All orders are guaranteed to be completed within a maximum of 14 days.<br><br>
 **QST: Who do I contact for help?**<br>
 Reach out to us through our “Contact us” page or email us at mosaic@info.com. We respond within 24 hours. <br><br>
-**For more information check out https://alpha-mosaic.netlify.app/ **
+
+**For more information check out: ** https://alpha-mosaic.netlify.app/ 
 
