@@ -22,6 +22,6 @@ Our platform addresses this gap by connecting traders with designers for garment
 Mosaic is built with a combination of HTML, CSS, Javascript and Backend. 
 ---
 **Interfaces sample images**
-![Mosaic interfaces](./home/studen/product_documentation/images/mosaicinterface.png)
+![Mosaic interfaces](images/mosaicinterface.png)
 
 
