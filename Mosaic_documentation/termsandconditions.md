@@ -1,4 +1,4 @@
-*TERMS AND CONDITIONS*<br>
+**TERMS AND CONDITIONS**<br>
 Welcome to **Mosaic**These Terms and Conditions govern your use of our website and services. By accessing or using the Platform, you agree to be bound by these Terms.<br>
 **Definitions**<br>
 "Users" refers to anyone who registers or access Mosaic either as a trader or a designer<br>

@@ -1,8 +1,8 @@
-**MOSAIC OVERVIEW**
+**MOSAIC OVERVIEW**<br>
 The global fashion industry produces 10% of worldwide pollution, with unsustainable textile practices as a leading cause. In Kenya, the Gikomba market is the heart of the second-hand clothing(Mitumba) ecosystem, providing economic opportunity and affordable clothing. However, used and discarded clothing continues to feed landfills like Dandora, increasing the environmental burden.
 
 Our platform addresses this gap by connecting traders with designers for garment upcycling, aiming to turn waste into value and foster sustainable habits in the local fashion market. Through Mosaic traders are able to renew their unsold clothes while designers are able to use their talent to come up with unique designs. <br>
-
+---
 **How it works**<br>
 **Traders**<br>
 1. Sign up to the App<br>
@@ -20,4 +20,8 @@ Our platform addresses this gap by connecting traders with designers for garment
 ---
 **Built with**
 Mosaic is built with a combination of HTML, CSS, Javascript and Backend. 
+---
+**Interfaces sample images**
+![Mosaic interfaces](images/mosaicinterface.png)
+
 
